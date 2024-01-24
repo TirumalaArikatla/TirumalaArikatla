@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-This is Tirumala
-Currently pursing masters in NorthWest Missouri State University
+- This is Tirumala
+- Currently pursing masters in NorthWest Missouri State University
 
 <!--
 **TirumalaArikatla/TirumalaArikatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
